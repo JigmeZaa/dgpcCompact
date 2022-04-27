@@ -24,20 +24,20 @@
                     <div class="col-md-8">
                         <div class="col-auto">
                             <p class="card-text text-ellipsis mt-5">
-                                Druk Holding and Investments (DHI), the commercial arm of the Royal Government of
-                                Bhutan,
-                                was established in 2007 upon issuance of Royal Charter in 2007 "to hold and manage the
-                                existing and future investments of the Royal Government for the long term benefit of the
-                                people of Bhutan". DHI, the largest and only government-owned holding company in Bhutan,
-                                has
-                                shares in 21 different companies operating in the manufacturing, energy, natural
-                                resources,
-                                financial, communication, aviation, trading and real estate sectors. Of the 21 portfolio
-                                companies 10 are fully owned (DHI-Owned Companies), 4 are controlled (DHI Controlled
-                                Companies - 51% and above) and 7 are linked (DHI-Linked Companies - below 51%). The
-                                Ministry
-                                of Finance is the sole shareholder of DHI.<br>
-                                <a href="https://www.dhi.bt/corporate-profile" target="_blank">
+                                Druk Green Power Corporation Limited (DGPC) is an electricity utility company that
+                                operates and maintains hydropower assets of Bhutan. It was established in January 2008
+                                through the merger of the three hydropower corporations of Basochhu, Chhukha and
+                                Kurichhu. Tala was merged with DGPC in 2009.
+
+                                With an installed capacity of 1,606 MW, the company’s mission is to efficiently manage
+                                existing hydropower plants and accelerate hydropower development in Bhutan by developing
+                                new hydropower projects.
+
+                                As more projects were planned and developed and the electricity grid expanded to cover
+                                every nook and corner of the country, Bhutan embarked on restructuring the sector at the
+                                start of the 21st century through the adoption of a number of new policies and
+                                legislative interventions.<br>
+                                <a href="https://www.drukgreen.bt/corporate-profile/" target="_blank">
                                     Read More <i class="fa fa-arrow-right"></i>
                                 </a>
                             </p>
@@ -102,7 +102,7 @@
                 <div style="bottom: 0; position: fixed;">
                     <small style="color: #fff">System developed and maintained by
                         <a href="https://thimphutechpark.bt/ourProduct" target="_blank">
-                            Thimphu TechPark Limited.
+                            DGPC ICT Team
                         </a>
                     </small>
                     <div class="dropdown-divider"></div>
