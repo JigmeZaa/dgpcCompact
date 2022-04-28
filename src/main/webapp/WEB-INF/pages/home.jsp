@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en" xmlns="http://www.w3.org/1999/html"> <
 <head>
-    <title>home</title>
+    <title>DGPC Compact System</title>
 </head>
 <body>
 <div class="main-content container-fluid">
