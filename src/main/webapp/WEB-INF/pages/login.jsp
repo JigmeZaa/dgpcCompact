@@ -16,7 +16,7 @@
 <div class="card square">
     <div class="card-content square">
         <img class="card-img img-fluid"
-             src="<c:url value='/assets/voler/images/background/royal-pic.png' />"
+             src="<c:url value='/assets/voler/images/background/loginbg.JPG' />"
              alt="" style="max-width: 100%; max-height: 100vh;">
         <div class="card-img-overlay overlay-dark d-flex justify-content-between flex-column square">
             <div class="overlay-content" style="padding:20px;position: absolute;  top: 10%;">
