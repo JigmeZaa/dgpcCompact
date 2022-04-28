@@ -6,7 +6,6 @@ about = (function () {
     function _baseURL() {
         return 'api/about/';
     }
-
     let configEditor = {
         fontNames: ['Garamond'],
         fontNamesIgnoreCheck: ['Merriweather'],
