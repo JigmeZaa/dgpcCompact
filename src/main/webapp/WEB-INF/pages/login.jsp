@@ -68,13 +68,13 @@
                                             <label for="username" style="text-transform: none">Username or email
                                                 address</label>
                                             <input type="text" class="form-control square" id="username" name="username"
-                                                   required>
+                                                   required placeholder="Username">
                                         </div>
                                         <div class="form-group">
                                             <label for="inputPassword" style="text-transform: none">Password</label>
                                             <input type="password" class="form-control square" id="inputPassword"
                                                    name="password"
-                                                   required>
+                                                   required placeholder="Password">
                                             <div class="pull-left">
                                                 <input type="checkbox" class='form-check-input cursor-pointer'
                                                        id="checkbox1"
