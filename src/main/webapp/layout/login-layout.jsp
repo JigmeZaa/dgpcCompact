@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="">
-    <link rel="shortcut icon" href="<c:url value='/assets/voler/images/favicon.png' />"/>
+    <link rel="shortcut icon" href="<c:url value='/assets/voler/images/favicon.jpg' />"/>
     <jsp:include page="include/css.jsp"/>
     <jsp:include page="include/js.jsp"/>
 </head>
